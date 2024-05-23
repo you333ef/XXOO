@@ -1,0 +1,43 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+.content{
+color: #fff;
+background-color:#2a1e2c ;
+margin: auto;
+width: 320px;
+height: 400px;
+text-align: center;
+align-items: center;
+}
+.item{
+color: #fff;
+width: 250px;
+height: 115px;
+background-color: black;
+text-align: center;
+font-size: 35px;
+cursor: pointer;
+font-weight: 700;
+
+
+}
+ .item:hover{
+   background-attachment: fixed;
+   background-color: #fff;
+  
+} 
+#item1 ,#item2,#item3,#item4,#item5,#item6,#item7,#item8 ,#item9{
+    margin: 1px;
+    padding: 20px;
+    margin-left: 21px;
+margin-top: 10px;
+    
+}
+.dashboard{
+    letter-spacing: 5px;
+    font-size: 22px;
+}
+
